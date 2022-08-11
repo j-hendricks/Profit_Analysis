@@ -9,10 +9,15 @@ Used Power BI to visualize sales data from a fictional company. Created a map sh
 
 ![model](images/model.png)
 
-![report](images/Full_Report)
+![report](images/Full_Report.png)
 
+## Example: Yearly Profits in Nevada (2013-2015)
+
+### 2013
 ![Nevada_2013](images/Nevada_2013.png)
+### 2014
 ![Nevada_2014](images/Nevada_2014.png)
+### 2015
 ![Nevada_2015](images/Nevada_2015.png)
 
 ![bar_employee](images/bar_employee.png)
